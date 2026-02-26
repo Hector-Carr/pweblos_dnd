@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "cb66729de4025bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db54f4bea2b9374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b237ce30f144cfbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main characters/Tertre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tertre"
+            }
+          },
+          {
+            "id": "15ea3b886ab5b26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63dd3004669f5db4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38c20fd65b7c3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ea7de3565c40e6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07620cd57eb872e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62c0fe013b0c6e47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c14efa2bd21e4d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d031c02bbc53ed11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7fabd340e599d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c4ba3be1f143f950",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6a435091ed6e9eaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a7f5a1d643b2dc9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d1691c44c115cc92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "15ea3b886ab5b26e",
+  "lastOpenFiles": [
+    "Main characters/Takari.md",
+    "Main characters/Tertre.md",
+    "Side characters/Government/Milles.md",
+    "Side characters/et ostus.md",
+    "Gods/Typhon.md",
+    "Main characters/Halcion.md",
+    "seleneshii.md",
+    "images/Pweblous_2.jpg",
+    "Session 1.md",
+    "Side characters/Government/Akker.md",
+    "Side characters/Government/Fawn.md",
+    "Places/Pweblos.md",
+    "Main characters/Snowball.md",
+    "Main characters/Phobos.md",
+    "Session 2.md",
+    "Ferm.md",
+    "Side characters/Government",
+    "Gods",
+    "Places/Gateway.md",
+    "Places/Old marketown.md",
+    "Places/Mud Town Sewer.md",
+    "Places/Mud Town.md",
+    "Places/Bakery.md",
+    "Places",
+    "Side characters",
+    "Main characters",
+    "images",
+    "Welcome.md"
+  ]
+}

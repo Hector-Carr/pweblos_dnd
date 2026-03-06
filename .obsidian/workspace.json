@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main characters/Tertre.md",
+                "file": "Session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tertre"
+              "title": "Session 2"
+            }
+          },
+          {
+            "id": "5736fa9f1540f0b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3"
             }
           },
           {
@@ -27,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 2.md",
+                "file": "Goddesses and Gods/Artemis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Artemis"
             }
           }
         ],
@@ -195,30 +209,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "15ea3b886ab5b26e",
+  "active": "5736fa9f1540f0b1",
   "lastOpenFiles": [
-    "Main characters/Takari.md",
+    "images/Pweblous_2.jpg",
+    "Session 3.md",
+    "Session 2.md",
+    "Main characters/Kirim.md",
+    "Places/Pweblos.md",
     "Main characters/Tertre.md",
+    "Aileen.md",
+    "Places/Mud Town.md",
+    "Goddesses and Gods/Artemis.md",
+    "Goddesses and Gods/Typhon.md",
+    "Main characters/Takari.md",
     "Side characters/Government/Milles.md",
     "Side characters/et ostus.md",
-    "Gods/Typhon.md",
     "Main characters/Halcion.md",
     "seleneshii.md",
-    "images/Pweblous_2.jpg",
     "Session 1.md",
     "Side characters/Government/Akker.md",
     "Side characters/Government/Fawn.md",
-    "Places/Pweblos.md",
     "Main characters/Snowball.md",
-    "Main characters/Phobos.md",
-    "Session 2.md",
     "Ferm.md",
     "Side characters/Government",
-    "Gods",
+    "Goddesses and Gods",
     "Places/Gateway.md",
     "Places/Old marketown.md",
     "Places/Mud Town Sewer.md",
-    "Places/Mud Town.md",
     "Places/Bakery.md",
     "Places",
     "Side characters",

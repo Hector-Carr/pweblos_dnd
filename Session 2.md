@@ -10,7 +10,7 @@ we get out of the city in the high city at 8am
 
 We make a note that the distance we travelled in the sewer seems incorrect
 
-in the high city is [[Mesomorsa]] the main building of the government. we go in to see [[Akker]] and [[Fawn]]. the building is very grand, there is a magic statue. we try to get [[Tertre]] healed. [[Tertre]] and [[Phobos]] get a lore dump [[Phobos]] gets vibes between [[Cedric Digory]]'s grandfather and [[Typhon]]. There is a looooooot of lore here but too fast to write dwn so maybe go back to lucas recording, also lore about buildings in the city back when the [[Mesomorsa]] was mentioned.
+in the high city is [[Mesomorsa]] the main building of the government. we go in to see [[Akker]] and [[Fawn]]. the building is very grand, there is a magic statue. we try to get [[Tertre]] healed. [[Tertre]] and [[Kirim]] get a lore dump [[Kirim]] gets vibes between [[Cedric Digory]]'s grandfather and [[Typhon]]. There is a looooooot of lore here but too fast to write dwn so maybe go back to lucas recording, also lore about buildings in the city back when the [[Mesomorsa]] was mentioned.
 
 They go up to the head of medicines office a pixie who is 1ft tall comes out to help. The pixie is a sacrificer named [[Gertrude]]. 
 
@@ -48,8 +48,8 @@ the love heart building on the map
 
 getting closer to 10am
 
-we go down an elevated path to an elevated platorom to an elevated state of mind. we look up to see FRESHLY flayed skin on the cieling multiple humans stitched together. we see the priestess she is a halfling she changes into a gnome for the sake of [[phobos]] who is spewing everyone. she is the most attractive thing possible to everyone present. this is [[norathenderball]] the prostitute cleric priest of [[slanesh]]. we get not much out of her, [[Snowball]] is invited back for a party between 8pm and 10pm.
+we go down an elevated path to an elevated platorom to an elevated state of mind. we look up to see FRESHLY flayed skin on the cieling multiple humans stitched together. we see the priestess she is a halfling she changes into a gnome for the sake of [[Kirim]] who is spewing everyone. she is the most attractive thing possible to everyone present. this is [[Norathenderball]] the prostitute cleric priest of [[slanesh]]. we get not much out of her, [[Snowball]] is invited back for a party between 8pm and 10pm.
 
 we go to [[Fawn]] to talk about the sewer, she try's to bullshit us about the sewer, she does not like the people down there. We show the drugs to her and she uses it as excuse to send troops down to the sewer. she lets us work with these troops they will be ready the next morning.
 
-we see a magic cart pulled by invisible steeds with an old man and a broken trident symbol on the side, and that is where we leave it. omg its posiedon
+we see a magic cart pulled by invisible steeds with an old man and a broken trident symbol on the side, and that is where we leave it. omg its posiedon??????

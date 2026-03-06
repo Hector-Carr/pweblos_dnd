@@ -1,10 +1,10 @@
-[[Phobos]] is the follower of a dark lord he runs into the city and gets taken into [[Takari]]'s bakery.
+[[Kirim]] is the follower of a dark lord he runs into the city and gets taken into [[Takari]]'s bakery.
 
 [[Halcion]] am in the library and i try to steal books from [[the library keeper]] i fail :(
 
 [[Tertre]] is a lizard in da big smoke, she walks into [[Snowball]] gets fired lol and [[Tertre]] has to sober him up. They chillin by the bay
 
-[[Phobos]] and [[Takari]] go down to the harbour to sell baked goods.
+[[Kirim]] and [[Takari]] go down to the harbour to sell baked goods.
 
 The temple goes off and cinematically erupts and a shape emerges with skin as black as coal wings clawed hands and a squidular head. We all get called up as sacrifices and all get onto a boat getting transferred to the temple.
 
@@ -49,7 +49,7 @@ we decide to go find [[Tertre]]
 
 [[Takari]] goes down and talks it out successfully
 
-[[Halcion]], [[Phobos]], and [[Snowball]] go in the front gate and [[Snowball]] goes apeshit on [[Takari]], who opens the gate. Somehow we manage to salvage it and find sanctuary in the sewers ending the session.
+[[Halcion]], [[Kirim]], and [[Snowball]] go in the front gate and [[Snowball]] goes apeshit on [[Takari]], who opens the gate. Somehow we manage to salvage it and find sanctuary in the sewers ending the session.
 
 
 

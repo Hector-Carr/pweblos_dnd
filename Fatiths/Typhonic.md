@@ -1,0 +1,1 @@
+Faith worshipping [[Typhon]], majority faith in [[Pweblos]], we are his chosen, and we can leverage that to our advantage sometimes.

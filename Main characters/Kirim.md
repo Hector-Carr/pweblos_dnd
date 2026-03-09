@@ -1,4 +1,3 @@
-has another name idk
+Also named Phobos, clerically
+worships [[Cedric]]
 Henry's character
-
-kirin

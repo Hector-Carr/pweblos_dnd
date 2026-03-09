@@ -1,0 +1,1 @@
+Owns most of the [[Ostus]]', property, owns [[Takari]]'s, [[Bakery]].

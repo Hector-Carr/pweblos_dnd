@@ -1,0 +1,1 @@
+The home of the [[Ostus]] family, every known family member we know of excluding [[Et Ostus]] lives here, located in the [[north High City]], the turquoise roofed large building near the south

@@ -1,0 +1,1 @@
+Owns the [[Griffin tower]], we work with him and [[Burn]] to bring down [[Morman]].

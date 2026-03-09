@@ -1,0 +1,1 @@
+Travelling merchant wizard. At some point recently he did some experiments on lizards, notable results of this are [[Tertre]] (30) and [[31]].

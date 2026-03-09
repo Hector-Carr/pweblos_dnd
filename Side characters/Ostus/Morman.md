@@ -1,0 +1,1 @@
+Creepy guy, [[Slaneshi]], however not very devote, his church keeps him around to pay their bills. The party is working with [[Burn]] and [[Virca]] to release the Morman files.

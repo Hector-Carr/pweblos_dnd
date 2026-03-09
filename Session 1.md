@@ -2,7 +2,7 @@
 
 [[Halcion]] am in the library and i try to steal books from [[the library keeper]] i fail :(
 
-[[Tertre]] is a lizard in da big smoke, she walks into [[Snowball]] gets fired lol and [[Tertre]] has to sober him up. They chillin by the bay
+[[Tertre]] is a lizard in da big smoke, she walks into [[Snowball]], he gets fired from his job and [[Tertre]] has to sober him up. They chillin by the bay
 
 [[Kirim]] and [[Takari]] go down to the harbour to sell baked goods.
 
@@ -16,14 +16,14 @@ We go upstairs and sit on some chairs. We get some tea from [[Typhon]], it's yum
 
 [[Fawn]] oversees the under-city "sewers" is what [[Akker]] thinks they are.
 
-Our objective is some where in mudtown
+Our objective is some where in [[Mud Town]]
 
 3pm
 We go back to [[Takari]]'s bakery meet his landlord some rando elf looking for him to pay rent like 200 odd gold, nvm got upped to 300 we have 20 hours to pay it. 
 
 We hang around [[Takari]]'s [[Bakery]]
 
-[[Bakery]] is in market town
+[[Bakery]] is in [[Old marketown]]
 
 we go to [[Mud Town]]
 we find out [[Takari]] is from [[Mud Town]]
@@ -41,15 +41,15 @@ We take a short rest
 9pm
 We go down the tunnel in the sewers.
 
-[[Tertre]] gets seperated from the group and meets two people named [[jeremy]] and [[simon]]. They are a [[diretroll]] they are one being.
+[[Tertre]] gets separated from the group and meets two people named [[Roger Simon, Jeremy]]. They are a [[diretroll]] they are one being.
 
-we decide to go find [[Tertre]]
+The rest of the party decide to go find [[Tertre]]
 
 [[Halcion]] perceives her
 
 [[Takari]] goes down and talks it out successfully
 
-[[Halcion]], [[Kirim]], and [[Snowball]] go in the front gate and [[Snowball]] goes apeshit on [[Takari]], who opens the gate. Somehow we manage to salvage it and find sanctuary in the sewers ending the session.
+[[Halcion]], [[Kirim]], and [[Snowball]] go in the front gate and [[Snowball]] goes apeshit on [[Takari]], who opens the gate to the [[Under-city]]. Somehow we manage to salvage it and find sanctuary in the sewers ending the session.
 
 
 

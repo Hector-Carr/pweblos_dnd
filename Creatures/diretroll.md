@@ -1,0 +1,1 @@
+Diretrolls occur when one [[troll]] eats another and the second or more [[troll]] , and the additional [[troll]] does not die

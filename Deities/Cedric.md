@@ -1,0 +1,1 @@
+[[Kirim]]'s deity, is not a god probably, maybe some sort of monster, since he may be a descendant of [[Typhon]]

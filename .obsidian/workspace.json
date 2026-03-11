@@ -39,12 +39,14 @@
             "id": "15ea3b886ab5b26e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pweblous_2.jpg"
+                "file": "Session 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pweblous_2"
+              "icon": "lucide-file",
+              "title": "Session 3"
             }
           }
         ],
@@ -209,12 +211,14 @@
   },
   "active": "15ea3b886ab5b26e",
   "lastOpenFiles": [
+    "Places/Tertre's magic school.md",
+    "Session 3.md",
+    "images/Pweblous_2.jpg",
     "Places/Pweblos.md",
     "Fatiths/Typhonic.md",
     "Deities/Typhon.md",
     "Main characters/Takari.md",
     "Places/Important buildings/Mon-Kai Libary.md",
-    "Session 3.md",
     "Session 2.md",
     "Main characters/Tertre.md",
     "Side characters/Government/Miles.md",
@@ -234,8 +238,6 @@
     "Fatiths/Slaneshi.md",
     "Side characters/Ostus/Virca.md",
     "Side characters/Ostus/Ostus.md",
-    "Deities/Cedric.md",
-    "images/Pweblous_2.jpg",
     "Side characters/Sewer",
     "Creatures",
     "Side characters/Ostus",

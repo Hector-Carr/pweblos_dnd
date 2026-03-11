@@ -1,0 +1,1 @@
+The magic school that [[Tertre]] has a scholarship to, we dont know where this is its quite msterious

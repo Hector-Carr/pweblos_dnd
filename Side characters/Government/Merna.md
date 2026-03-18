@@ -1,0 +1,1 @@
+Minotaur woman, judge in the government

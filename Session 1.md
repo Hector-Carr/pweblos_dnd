@@ -1,6 +1,6 @@
 [[Kirim]] is the follower of a dark lord he runs into the city and gets taken into [[Takari]]'s bakery.
 
-[[Halcion]] am in the library and i try to steal books from [[the library keeper]] i fail :(
+[[Halcion]] am in the library and i try to steal books from [[Uka-Uka]] [[the library keeper]] i fail :(
 
 [[Tertre]] is a lizard in da big smoke, she walks into [[Snowball]], he gets fired from his job and [[Tertre]] has to sober him up. They chillin by the bay
 

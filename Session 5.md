@@ -5,7 +5,7 @@ The sewer group decides to go to the prison at [[Uginvar'we]] they see [[Snowbal
 
 lots of nothing happens with [[Halcion]] and [[Axel]] and they get arrested
 
-The prison bunch go interrogate [[Vomp]], he reveals that the old underworld boss went by the alias [[Garic]], he once lived in [[North High City]]. [[Halcion]] and [[Axel]] arrive at the prison in chains. We get freed and the party goes to look for [[Garic]]. [[Tertre]] does a vibe check and the obsidian colored mannor, sticks out the terminator almost kills [[Tertre]] and we run away from the guards into [[Old Uptown]] and we get very demoralised its very sad.
+The prison bunch go interrogate [[Vomp]], he reveals that the old underworld boss went by the alias [[Garic]], he once lived in [[North High City]]. [[Halcion]] and [[Axel]] arrive at the prison in chains. We get freed and the party goes to look for [[Garic]]. [[Tertre]] does a vibe check and the obsidian colored mannor, sticks out, the terminator almost kills [[Tertre]] and we run away from the guards into [[Old Uptown]] and we get very demoralised its very sad.
 
 
 

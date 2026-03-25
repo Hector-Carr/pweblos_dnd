@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b237ce30f144cfbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 2"
-            }
-          },
-          {
-            "id": "5736fa9f1540f0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fatiths/Seleneshi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seleneshi"
-            }
-          },
-          {
-            "id": "15ea3b886ab5b26e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 4"
-            }
-          },
-          {
             "id": "cce8252addecd64f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 5.md",
+                "file": "Session 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5"
+              "title": "Session 6"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,33 +182,33 @@
   },
   "active": "cce8252addecd64f",
   "lastOpenFiles": [
-    "Side characters/Ostus/Burn.md",
-    "Side characters/Ostus/Et Ostus.md",
-    "Side characters/Ostus/Fern.md",
-    "Side characters/Ostus/Monty.md",
-    "Session 5.md",
-    "Side characters/Government/Akker.md",
+    "Session 2.md",
+    "Session 6.md",
     "Side characters/Government/Miles.md",
     "Side characters/Government/Merna.md",
     "Side characters/Government/Gertrude.md",
-    "Side characters/Government/Fawn.md",
-    "Deities/Loki.md",
+    "Side characters/Government/Akker.md",
     "Session 4.md",
+    "Side characters/Ostus/Burn.md",
+    "Side characters/Ostus/Virca.md",
+    "Side characters/Ostus/Ostus.md",
+    "Side characters/Ostus/Morman.md",
+    "Side characters/Ostus/Fern.md",
+    "Side characters/Ostus/Monty.md",
     "Session 1.md",
     "Session 3.md",
+    "Side characters/Government/Fawn.md",
+    "Session 5.md",
+    "Deities/Mistra.md",
+    "Side characters/Ostus/Orm.md",
+    "Side characters/Ostus/Et Ostus.md",
+    "Deities/Loki.md",
     "Places/Important buildings/Mon-Kai Libary.md",
     "Main characters/Axel.md",
     "Main characters/Halcion.md",
     "images/Pweblous_2.jpg",
     "Places/Tertre's magic school.md",
     "Places/Pweblos.md",
-    "Fatiths/Typhonic.md",
-    "Deities/Typhon.md",
-    "Main characters/Takari.md",
-    "Session 2.md",
-    "Main characters/Tertre.md",
-    "Side characters/Nora.md",
-    "Side characters/Aileen/Aileen.md",
     "Side characters/Sewer",
     "Creatures",
     "Side characters/Ostus",

@@ -1,0 +1,1 @@
+keeper of the black library, son of [[Ciric]], Demigod. lots of other lore in the recording of [[Session 8]]. Has magic up to 18th level.

@@ -19,4 +19,3 @@ we go into the sewer in the [[High city]] enterence we found in [[Session 2]], w
 
 Alot of things happen with the rat tbh we get a quest from the rat or something, something about an anchient rat mole war that we almost decide to abanton [[Typhon]]s quest to solve. The "[[Mole]]" is a giant purple worm.
  
-5pm

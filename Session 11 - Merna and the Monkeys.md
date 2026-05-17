@@ -77,6 +77,6 @@ doesn't speak the truth
 doesn't hear the truth
 
 
-ignorant
+ignorant 
 lying
 truth
